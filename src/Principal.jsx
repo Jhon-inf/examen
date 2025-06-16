@@ -1,7 +1,6 @@
 import { BrowserRouter,Routes,Route,Link} from "react-router-dom";
 import "./estilos.css"
 import Acordeon1 from "./Acordeon1.jsx";
-import { Card, CardBody, CardTitle, CardText } from 'reactstrap';
 import Card1 from "./Card1.jsx";
 
 function Inicio(props){
