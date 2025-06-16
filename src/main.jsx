@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 import './index.css'
 import { Card, CardBody, CardTitle, CardText } from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Card } from 'reactstrap';
 import Principal from './Principal.jsx';
 import { BrowserRouter } from 'react-router-dom';
 
